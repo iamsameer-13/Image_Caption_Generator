@@ -1,0 +1,7 @@
+tensorflow-cpu
+numpy
+pandas
+matplotlib
+pillow
+tqdm
+pickle-mixin
